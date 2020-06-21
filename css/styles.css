@@ -1,0 +1,147 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: lighter;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin-top: 25px;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  margin: 0;
+}
+
+h3 {
+  color: #11999e;
+  margin: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+a {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;   
+}
+
+a:hover {
+  color: #EAF6F6
+}
+
+.top-container {
+  color: #11999e;
+  background-color: #E4F9F5;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 0px;
+  margin-bottom: 0px;
+  background-color: #cbdff1;
+}
+
+.bottom-container {
+  background-color: #cbdff1;
+  padding: 50px 0 20px;
+}
+
+.computer {
+  width: 150px;
+  margin: auto;
+}
+
+.chillies {
+  width: 150px;
+  margin: auto;
+
+}
+
+.email-me {
+  width: 150px;
+  margin: auto;
+}
+
+.chillies-skill-description {
+  margin: auto;
+  width: 30%;
+}
+
+.code-skill-description {
+  margin: auto;
+  width: 30%;
+  margin-bottom: 50px;
+
+}
+
+.mountain {
+  width: 600px;
+  height: 350px;
+}
+
+.Maiyo {
+  width: 180px;
+  height: 180px;
+  margin: auto;
+  padding: 20px 0 20px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 40px;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto
+}
+
+.contact-me {
+  width: 40%;
+  margin: 100px auto;
+}
+
+.copy-right {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.skills {
+  margin: auto;
+}
